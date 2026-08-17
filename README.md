@@ -1,5 +1,9 @@
 # Rae Compiler Development Dashboard
 
+> **Archived:** Devtools Web now lives at
+> [`tools/devtools-web`](https://github.com/jonasmyoha/rae/tree/main/tools/devtools-web)
+> in the Rae monorepo. This repository is kept read-only for historical links.
+
 Lightweight developer dashboard that keeps Rae compiler contributors aware of build health, test coverage, and historical performance trends without relying on heavy frameworks. The current implementation lives in this repository so it can eventually be re-authored in Rae itself.
 
 ## Project Overview
